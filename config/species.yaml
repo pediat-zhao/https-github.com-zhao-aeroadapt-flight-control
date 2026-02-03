@@ -2,11 +2,6 @@ species:
   sparrow:
     name: "House Sparrow"
     scientific_name: "Passer domesticus"
-    taxonomy_id: 48883
-    genome_source: "NCBI"
-    
   butterfly:
     name: "Silk Moth"
     scientific_name: "Bombyx mori"
-    taxonomy_id: 7091
-    genome_source: "SilkBase"
